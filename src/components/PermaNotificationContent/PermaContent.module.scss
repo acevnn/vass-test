@@ -1,0 +1,19 @@
+.perma-heading {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1;
+}
+
+.perma-paragraph {
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 12px;
+    max-width: 396px;
+}
+
+.perma-paragraph, .perma-heading {
+    font-family: "Geist Mono", monospace, sans-serif;
+    color: #000;
+    margin: 0;
+    text-align: left;
+}
