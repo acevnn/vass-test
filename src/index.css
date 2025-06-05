@@ -50,10 +50,6 @@ button {
     transition: border-color 0.25s;
 }
 
-button:hover {
-    /*border-color: #646cff;*/
-}
-
 button:focus,
 button:focus-visible {
     outline: 4px auto -webkit-focus-ring-color;
@@ -84,7 +80,6 @@ button:focus-visible {
     padding: 10px 16px;
     text-align: left;
     font-family: "Geist Mono", monospace, sans-serif;
-    
 }
 
 .custom-toast {
@@ -92,5 +87,4 @@ button:focus-visible {
     font-weight: 400;
     line-height: 1.6;
     font-size: 12px;
-    max-width: 396px;
 }
